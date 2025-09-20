@@ -137,7 +137,7 @@ react-music-player/
 
 ## Screenshots
 
-![Music Player](https://via.placeholder.com/500x300?text=Music+Player+Screenshot)
+![Music Player](https://github.com/SumanDas60/Music-player/blob/64b376cbfd8a373999b91998757a06379aa269bb/Screenshot%202025-09-20%20225652.png)
 
 ---
 
